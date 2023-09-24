@@ -38,3 +38,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### connet with gitHub
+### git create a new project
+### local cd your content
+###  
