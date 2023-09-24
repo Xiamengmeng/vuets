@@ -42,4 +42,4 @@ npm run build
 ### connet with gitHub
 ### git create a new project
 ### local cd your content
-###  
+### to slove press password always,we need operate 'git config --global credential.helper store' in terminal, then enter your password
